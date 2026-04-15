@@ -61,7 +61,7 @@ Focused on creating clean, scalable, and production-ready solutions.
 
 ### 📬 Let's Connect
 - **Email**: [himosiiisom@gmail.com](mailto:himosiiisom@gmail.com)  
-- **LinkedIn**: [Mostafa Dehghani](https://www.linkedin.com/in/mostafa-dehghani-b88351217/)
+- **LinkedIn**: [Mostafa Dehghani](https://www.linkedin.com/in/mosiiisom/)
 
 **Available for remote freelance work** — VPN Solutions, Crypto Systems, Trading Tools, Full-Stack Development & AI Projects.
 
