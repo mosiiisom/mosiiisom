@@ -8,7 +8,7 @@
     <strong>Relocating to Batumi, Georgia</strong> | Open to Remote Projects
   </p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=mosiiisom&show_icons=true&theme=radical&hide_border=true&hide_title=true" height="165" alt="Stats"/>
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=mosiiisom&show_icons=true&theme=radical&hide_border=true&hide_title=true" height="165" alt="Stats"/>-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosiiisom&layout=compact&theme=radical&hide_border=true&hide_title=true" height="165" alt="Languages"/>
 
 </div>
@@ -24,22 +24,22 @@ Focused on creating clean, scalable, and production-ready solutions.
 ### Skills & Technologies
 
 **Backend**  
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) 
-![FastAPI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg) 
-![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg) 
-![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) 
-![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" alt="Python"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32" height="32" alt="FastAPI"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="32" height="32" alt="Django"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="32" height="32" alt="PHP"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="32" height="32" alt="Laravel"/>
 
 **Frontend**  
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) 
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) 
-![AlpineJS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alpinejs/alpinejs-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32" alt="React"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alpinejs/alpinejs-original.svg" width="32" height="32" alt="AlpineJS"/>
 
 **DevOps & Tools**  
-![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) 
-![Redis](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg) 
-![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) 
-![Nginx](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" height="32" alt="Docker"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="32" height="32" alt="Redis"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" height="32" alt="Linux"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="32" height="32" alt="Nginx"/>
 
 **Specialized**  
 VPN (Xray) • Crypto Exchanges APIs (Binance, BingX) • Blockchain (TON, BSC, TRX) •  
