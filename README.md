@@ -1,23 +1,25 @@
 <div>
 
   <p>Hi, I'm <code>Mostafa</code> 👋</p>
-  <p>Full-Stack Developer & Independent Software Engineer</p>
+  <p>Full-Stack Developer building scalable web applications & backend systems</p>
 
   <p>
-    - 10+ years experience building web applications, VPN solutions, crypto tools & automation systems<br>
-    - Relocating to Batumi, Georgia</strong> | Open to Remote Projects <br/>
-    - I enjoy exploring new technologies and thrive on solving challenging problems.
+    - 10+ years experience building web applications, backend systems & automation tools<br>
+    - Open to Remote Opportunities & International Relocation<br/>
+    - Passionate about clean architecture, performance, and solving complex problems
   </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=12&duration=2000&pause=1000&color=18E699&vCenter=true&multiline=true&width=250&height=80&lines=%3E+build+the_project;%5B+INFO+%5D+start+building...;%5B+INFO+%5D+Build+Completed+!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=12&duration=2000&pause=1000&color=18E699&vCenter=true&multiline=true&width=250&height=80&lines=%3E+build+the_system;%5B+INFO+%5D+initializing...;%5B+INFO+%5D+System+Ready+!" alt="Typing SVG" />
   
 </div>
 
 ---
 
 ### 👨‍💻 About Me
-Passionate independent developer specialized in full-stack development, VPN infrastructure, crypto payment and exchange systems, and AI-powered tools.  
-Focused on creating clean, scalable, and production-ready solutions.
+Full-stack developer with a strong focus on building scalable, production-ready web applications and backend systems.  
+Experienced across the full development lifecycle, from frontend interfaces to backend architecture and deployment.
+
+Also skilled in infrastructure and system-level work, including Linux server management, Docker-based environments, and performance optimization.
 
 ---
 
@@ -63,8 +65,8 @@ Focused on creating clean, scalable, and production-ready solutions.
 - **Email**: [himosiiisom@gmail.com](mailto:himosiiisom@gmail.com)  
 - **LinkedIn**: [Mostafa Dehghani](https://www.linkedin.com/in/mosiiisom/)
 
-**Available for remote freelance work** — VPN Solutions, Crypto Systems, Trading Tools, Full-Stack Development & AI Projects.
+**Available for remote roles and freelance projects** — Full-Stack Development, Backend Systems, APIs, and Scalable Applications.
 
 <p align="center">
-  <i>Building reliable software with passion.</i>
+  <i>Building scalable and reliable software systems.</i>
 </p>
