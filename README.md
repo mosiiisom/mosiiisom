@@ -5,7 +5,7 @@
 
   <p>
     - 10+ years experience building web applications, backend systems & automation tools<br>
-    - Open to Remote Opportunities & International Relocation<br/>
+    - Open to Remote Opportunities<br/>
     - Passionate about clean architecture, performance, and solving complex problems
   </p>
 
